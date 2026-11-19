@@ -1,0 +1,30 @@
+.todo-list {
+  display: flex;
+  flex-direction: column;
+  margin: 10px;
+  background-color: rgb(237, 152, 39);
+
+  padding: 10px;
+  border-radius: 10px;
+}
+.check-input {
+  width: 20px;
+  height: 15px;
+  border: none;
+}
+.check-list {
+  font-size: large;
+  font-weight: bold;
+  padding: 5px;
+
+  border-radius: 5px;
+  margin: 5px;
+}
+
+.delete-btn {
+  margin-left: 8px;
+  background: none;
+  border: none;
+  font-size: 16px;
+  font-weight: bolder;
+}

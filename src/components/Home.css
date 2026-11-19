@@ -1,0 +1,19 @@
+.home {
+  display: flex;
+  flex-direction: column;
+  border: none;
+  border-radius: 10px;
+  align-items: center;
+  width: 70%;
+  max-height: fit-content;
+  background-color: antiquewhite;
+  background-image: url("../assets/hero.png");
+}
+.home h1 {
+  font-weight: bold;
+  font-size: 42px;
+}
+.home h2 {
+  font-weight: bold;
+  margin-top: 10px;
+}
